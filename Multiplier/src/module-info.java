@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ip
- *
- */
-module multiplier {
-}
